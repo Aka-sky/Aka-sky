@@ -6,11 +6,11 @@
 
 <div align="center">
 
-<p><img align="" src="https://github-readme-stats.vercel.app/api/top-langs?username=Aka-sky&theme=great-gatsby" alt="Akash Kamble" ></p>
+<p><img align="" src="https://github-readme-stats.vercel.app/api/top-langs?username=Aka-sky" alt="Akash Kamble" ></p>
 
-<p>&nbsp;<img align="" src="https://github-readme-stats.vercel.app/api?username=Aka-sky&theme=great-gatsby" alt="Akash Kamble"/></p>
+<p>&nbsp;<img align="" src="https://github-readme-stats.vercel.app/api?username=Aka-sky" alt="Akash Kamble"/></p>
 
-<p><img src="https://github-readme-streak-stats.herokuapp.com/?user=Aka-sky&theme=great-gatsby" alt="Akash Kamble""></p>
+<p><img src="https://github-readme-streak-stats.herokuapp.com/?user=Aka-sky" alt="Akash Kamble""></p>
 
 </div>
 <!--- 👋 Hi, I’m @Aka-sky
